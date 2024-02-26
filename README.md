@@ -1,2 +1,2 @@
 ## Немного обо мне
-<img src="/header.png" alt="альтернативный текст">
+<img src="/header.png" alt="">
